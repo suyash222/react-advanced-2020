@@ -1,8 +1,10 @@
 import React from 'react'
+import SetUp from './use_State'
+
 function App() {
   return (
     <div className='container'>
-      <h2>Advanced Tutorial</h2>
+      <SetUp />
     </div>
   )
 }
