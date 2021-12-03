@@ -45,4 +45,5 @@ const SingleProduct = ({ fields }) => {
     </article>
   )
 }
+
 export default Index
